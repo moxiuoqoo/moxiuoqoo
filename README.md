@@ -10,3 +10,5 @@ i make cli/gui programs and more, mostly making random stuff.
 or if you prefer e-mail contact:
 moxi-u7@onet.eu
 ```
+or even [matrix]:
+[@moxiu33:matrix.org](https://matrix.to/#/@moxiu33:matrix.org)
