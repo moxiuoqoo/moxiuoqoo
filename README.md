@@ -2,9 +2,8 @@
 
 - you can contact me at: 
 
-https://telegram.me/moxiu333
+[Telegram](https://telegram.me/moxiu333)
 ```
-or
-
+or if you prefer e-mail contact:
 moxi-u7@onet.eu
 ```
